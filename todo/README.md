@@ -1,16 +1,4 @@
-# todo
+# Todo App
 
-A new Flutter project.
+This is my first app using Flutter. In this project, I've implemented basic functions as add, load, remove and save data using shared preferences. I really enjoyed this framework and from now on, I'll be developing more complex projects and breaking through this beautiful world of mobile!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
